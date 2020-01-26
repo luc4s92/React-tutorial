@@ -1,0 +1,28 @@
+{
+    "todos": [
+         {
+             "title": "Task 1",
+             "responsible" : "Pepe",
+             "description" : "quia et suscipit suscipit recusandae consequuntur",
+             "priority": "low"
+         },
+         {
+            "title": "Task 2",
+            "responsible" : "PepeMan",
+            "description" : "quia et suscipit suscipit recusandae consequuntur",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible" : "Don Pepe",
+            "description" : "quia et suscipit suscipit recusandae consequuntur",
+            "priority": "high"
+        },
+        {
+            "title": "Task 4",
+            "responsible" : "Don Choto",
+            "description" : "quia et suscipit suscipit recusandae consequuntur",
+            "priority": "high"
+        }
+    ]
+}
