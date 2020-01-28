@@ -1,4 +1,4 @@
-To run the app to follow these steps:
+To run the app follow these steps:
 
 1-- Install nodejs
 `https://nodejs.org`
